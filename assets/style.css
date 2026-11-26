@@ -234,3 +234,6 @@ p{margin:0 0 1em}
   *{transition:none!important}
 }
 @media (min-width:981px){#service-grid{grid-template-columns:repeat(3,1fr)}}
+a.pcard{text-decoration:none;color:inherit;cursor:pointer}
+.pcard .btn--wa{background:#25d366;color:#fff;margin-top:14px;padding:.5em 1.1em;font-size:15px}
+a.pcard:hover .btn--wa{background:#1ebe5b}
